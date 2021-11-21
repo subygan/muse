@@ -1,1 +1,2 @@
-A super simple music player
+A super simple music player.
+Over the web
