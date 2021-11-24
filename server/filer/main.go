@@ -76,17 +76,19 @@ func main() {
 		Ic(*object.Key)
 		Ic(object)
 
-		//i := s3.GetObjectInput{
-		//	Bucket: aws.String("suriya-music"),
-		//	Key: object.Key,
-		//}
-		//psClient := s3.NewPresignClient(client)
-		//
-		//res, _ := psClient.PresignGetObject(context.TODO(), &i)
-		//
-		//Ic(res)
+		i := s3.GetObjectInput{
+			Bucket: aws.String("suriya-music"),
+			Key: object.Key,
+		}
+		psClient := s3.NewPresignClient(client)
+
+		res, _ := psClient.PresignGetObject(context.TODO(), &i)
+
+		Ic(res)
 
 	}
+
+
 
 
 
