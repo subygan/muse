@@ -3,3 +3,5 @@ server/main/vendor/*
 */music/*
 
 *.mp3
+
+*/vendor/*
