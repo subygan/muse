@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0970cad-bb1d-4315-9e15-02ce511322c9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/filer/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/server/filer/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/main/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/server/main/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/main/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/server/main/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/main/server.go" beforeDir="false" afterPath="$PROJECT_DIR$/server/main/server.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="f0970cad-bb1d-4315-9e15-02ce511322c9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
